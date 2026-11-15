@@ -1,0 +1,5 @@
+=== LOG DE TRATAMENTO DOS DADOS ===
+Municípios lidos: 15; válidos finais: 15; geometrias corrigidas: 0.
+Equipamentos brutos: 256; mantidos no recorte: 163; descartados fora dos 15 municípios: 93; sem coordenada: 0; nomes padronizados (ausentes no OSM): 38.
+Trechos viários brutos: 3026; mantidos no recorte: 2001; descartados fora do recorte: 1025; inválidos/descartados: 0; geometrias corrigidas: 0.
+Total de feições espaciais finais: 2179.
